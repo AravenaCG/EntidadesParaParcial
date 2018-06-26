@@ -1,0 +1,24 @@
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Test\bin\Debug\Clase_16_Test.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Test\bin\Debug\Clase_16_Test.pdb
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Test\obj\Debug\Clase_16_Test.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Test\obj\Debug\Clase_16_Test.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Test\obj\Debug\Clase_16_Test.pdb
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Test\bin\Debug\Clase_16_Library.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_16_Test\bin\Debug\Clase_16_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Test\bin\Debug\Clase_16_Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Test\bin\Debug\Clase_16_Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Test\bin\Debug\Clase_16_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Test\bin\Debug\Clase_16_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Test\obj\Debug\Clase_16_Test.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Test\obj\Debug\Clase_16_Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_16_Test\obj\Debug\Clase_16_Test.pdb
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\bin\Debug\Clase_16_Test.dll
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\bin\Debug\Clase_16_Test.pdb
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\bin\Debug\Clase_16_Library.dll
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\bin\Debug\Clase_16_Library.pdb
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\obj\Debug\Clase_16_Test.csprojAssemblyReference.cache
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\obj\Debug\Clase_16_Test.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\obj\Debug\Clase_16_Test.csproj.CopyComplete
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\obj\Debug\Clase_16_Test.dll
+C:\Users\hunte\OneDrive\Documentos2\Visual Studio 2017\Final_Clase_16\Final_Clase_16\Clase_16_Test\obj\Debug\Clase_16_Test.pdb
